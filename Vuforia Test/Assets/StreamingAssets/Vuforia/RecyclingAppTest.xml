@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IMG_2090_cropped" size="4.000000 1.799398" />
+    <ImageTarget name="smaller_cropped_plastic_symbol" size="1.000000 1.797657" />
+    <ImageTarget name="IMG_2090" size="4.000000 3.000000" />
+    <ImageTarget name="plastic_bottle_recycling_symbol_cropped" size="4.000000 7.190629" />
+    <ImageTarget name="IMG_2089" size="4.000000 3.000000" />
+    <ImageTarget name="Waterbottle_Recycling_Symbol" size="4.000000 7.613793" />
+    <ImageTarget name="ESS_Handbook_5M" size="5.000000 7.981304" />
+    <ImageTarget name="Pandtene_Bottle_RecyclingSymbol" size="4.000000 4.866142" />
+    <ImageTarget name="Straight_Waterbottle_Barcode" size="4.000000 3.212205" />
+    <ImageTarget name="Neutregena_Barcode_8m" size="8.000000 6.000000" />
+    <ImageTarget name="Neutrogena_Barcode" size="4.000000 3.000000" />
+    <ImageTarget name="Eng_Handbook" size="4.000000 6.385043" />
+    <ImageTarget name="Emcon_Logo" size="4.000000 3.954766" />
+    <ImageTarget name="ESS_Badge" size="4.000000 3.000000" />
+    <ImageTarget name="EmconMousePad" size="4.000000 3.000000" />
+    <ImageTarget name="PillBottle" size="4.000000 7.403211" />
+    <ImageTarget name="NeutrogenaBottle" size="4.000000 7.534883" />
+  </Tracking>
+</QCARConfig>
