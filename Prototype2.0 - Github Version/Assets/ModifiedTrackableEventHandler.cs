@@ -10,7 +10,8 @@ public class ModifiedTrackableEventHandler : MonoBehaviour, ITrackableEventHandl
     public GameObject buttonText;
     public GameObject targetName;
 
-
+    public GameObject popUp;
+    public GameObject popUpText;
 
 
     protected TrackableBehaviour mTrackableBehaviour;
@@ -84,6 +85,9 @@ public class ModifiedTrackableEventHandler : MonoBehaviour, ITrackableEventHandl
             displayText.GetComponent<Text>().text = targetName.name;
             buttonText.GetComponent<Text>().text = "More Information on\n" + targetName.name;
 
+            Invoke("showPopUp", 5);
+            popUpText.GetComponent<Text>().text = "Did You Recycle\n" + targetName.name + "?";
+
         }
     }
 
@@ -109,7 +113,19 @@ public class ModifiedTrackableEventHandler : MonoBehaviour, ITrackableEventHandl
                 component.enabled = false;
 
             displayText.GetComponent<Text>().text = "Center Object";
-            buttonText.GetComponent<Text>().text = "Center Object";
+            buttonText.GetComponent<Text>().text = "Not Viewing Anything";
+
+            hidePopUp();
         }
+    }
+
+    public void showPopUp()
+    {
+        popUp.SetActive(true);
+    }
+
+    public void hidePopUp()
+    {
+        popUp.SetActive(false);
     }
 }
