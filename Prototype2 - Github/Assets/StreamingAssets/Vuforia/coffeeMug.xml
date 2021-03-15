@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="coffeeMug" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="coffeeMugs_assembly" assemblyId="396605b44e8246d694cb5412d4890a54">
+<Part name="coffeeMug" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0696885 0.18919 0.530778" rotation="AD: 0.9974854230433279 0.16189829043200737 -0.5151474150593636 210.899" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
