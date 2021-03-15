@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="MiniSodaCan" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="MiniSodaCans_assembly" assemblyId="5c89a1095f00458ea983b3fe6b6c7894">
+<Part name="MiniSodaCan" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000545134 0.017612 0.117107" rotation="AD: 0.7900760826115718 1.9074923579657785 -0.7077067219516061 164.701" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.7.4">
+<ModelTarget name="coffeeMug" targetId="2812b005115b454196993208b44cf330" version="11.1" toolVersion="9.7.4" bbox="-0.016765 0.000313 -0.352498 0.218273 0.283485 -0.021427" previewImage="2812b005115b454196993208b44cf330_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="coffeeMugs_assembly" assemblyId="396605b44e8246d694cb5412d4890a54">
+<Part name="coffeeMug" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0696885 0.18919 0.530778" rotation="AD: 0.9974854230433279 0.16189829043200737 -0.5151474150593636 210.899" image="coffeeMug_viewpoint_0001.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
