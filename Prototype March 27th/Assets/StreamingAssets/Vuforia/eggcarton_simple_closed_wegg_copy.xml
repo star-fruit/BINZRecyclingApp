@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="eggcarton_simple_closed_wegg_copy" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="eggcarton_simple_closed_wegg_copys_assembly" assemblyId="d9622c66b945439993a9433a27e11d2e">
+<Part name="eggcarton_simple_closed_wegg_copy" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint360degrees" translation="0.44685 0.0885105 0.576984" rotation="AD: -0.9228632851481938 -0.441812939169181 1.8612833302400094 168.223" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

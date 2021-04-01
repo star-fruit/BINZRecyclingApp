@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="eggcarton_simple_closed_wegg_FacingLeft" targetId="f40426e3327645358a8a697dc668ebfb" version="11.1" toolVersion="9.8.5" bbox="-0.570603 0.191919 0.166212 -0.264914 0.261769 0.268552" previewImage="f40426e3327645358a8a697dc668ebfb_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="eggcarton_simple_closed_wegg_FacingLefts_assembly" assemblyId="4e3e3c3b89db44329dbdf38bcaec2a6c">
+<Part name="eggcarton_simple_closed_wegg_FacingLeft" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.402548 0.238646 0.261553" rotation="AD: 0.9993046762996443 -0.09778686107579981 0.42485333296531974 203.825" image="eggcarton_simple_closed_wegg_FacingLeft_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

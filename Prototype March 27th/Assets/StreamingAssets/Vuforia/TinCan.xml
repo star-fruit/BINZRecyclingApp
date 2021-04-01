@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="TinCan" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="TinCans_assembly" assemblyId="de7d4663599d46d0bdd67cc508bac057">
+<Part name="TinCan" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00285525 0.00338011 0.23268" rotation="AD: 0.9989821261347843 0.12806032764292383 -0.3978984520722482 213.072" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

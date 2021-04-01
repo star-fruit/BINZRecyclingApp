@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.8.5">
+<ModelTarget name="9V-battery" targetId="2e0d19522099400689aaebe82959a3f0" version="11.1" toolVersion="9.8.5" bbox="0.007083 0.041323 0.000000 0.033118 0.089202 0.017145" previewImage="2e0d19522099400689aaebe82959a3f0_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="9V-batterys_assembly" assemblyId="d7ef8c13600543f993d142874f7dd334">
+<Part name="9V-battery" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0120123 -0.0474756 0.0294307" rotation="AD: 0.9964830028452516 1.1251893706182368 0.3004478079653501 44.6576" image="9V-battery_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

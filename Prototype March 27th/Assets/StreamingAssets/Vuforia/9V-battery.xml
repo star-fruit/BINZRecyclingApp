@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="9V-battery" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="9V-batterys_assembly" assemblyId="d7ef8c13600543f993d142874f7dd334">
+<Part name="9V-battery" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0120123 -0.0474756 0.0294307" rotation="AD: 0.9964830028452516 1.1251893706182368 0.3004478079653501 44.6576" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
