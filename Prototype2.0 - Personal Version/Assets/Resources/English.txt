@@ -1,0 +1,13 @@
+options=Options
+tutorial=Replay Tutorial
+privacy=Privacy Settings
+city=City Waste Explorer
+itemTotal=Total Items Recycled:
+plasticTotal=Plastic Items Recycled:
+paperTotal=Paper Items Recycled:
+compostTotal=Organic Items Composted:
+searchPlaceholder=Enter Recyclable Item...
+plasticButton=Plastic
+paperButton=Paper
+metalButton=Metal
+

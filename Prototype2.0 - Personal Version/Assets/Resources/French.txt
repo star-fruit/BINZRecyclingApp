@@ -1,0 +1,12 @@
+options=Options
+tutorial=Refaire le Tutoriel
+privacy=Paramètres de Confidentialité
+city=Navigateur de Déchets d'Ottawa
+itemTotal=Nombre Total d'Articles Recyclés:
+plasticTotal=Articles en Plastique Recyclés
+paperTotal=Articles en Papier Recyclés
+compostTotal=Articles Biologiques Compostés
+searchPlaceholder=Entrez l'Article Recyclable...
+plasticButton=Plastique
+paperButton=Papier
+metalButton=Métal
